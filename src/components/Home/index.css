@@ -1,0 +1,33 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+.home-image {
+  height: 20vh;
+  width: 10vw;
+}
+.home-heading {
+  color: #1e293b;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.home-container1 {
+  display: flex;
+  background-color: #000000;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+.home-image1 {
+  height: 20vh;
+  width: 10vw;
+}
+.home-heading1 {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Roboto';
+}

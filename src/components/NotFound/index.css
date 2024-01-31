@@ -1,0 +1,41 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+.not-found-image {
+  height: 60vh;
+  width: 30vw;
+}
+.not-found-heading {
+  color: #1e293b;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+.not-found-para {
+  color: #333333;
+  font-family: 'Roboto';
+}
+.not-found-container1 {
+  display: flex;
+  background-color: #000000;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+.not-found-image1 {
+  height: 60vh;
+  width: 30vw;
+}
+.not-found-heading1 {
+  color: #ffffff;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+.not-found-para1 {
+  color: #dcdcdc;
+  font-family: 'Roboto';
+}
